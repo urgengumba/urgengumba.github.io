@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Urgen Chhoeling Gumba
+email: urgen.gumba@hotmail.com
+address: Betini - 3, Kalo Bhanjyang, Nuwakot
+contact_number: 9841292186, 9843107647, 9813725550
+description: > # this means to ignore newlines until "baseurl:"
+  Urgen Chhoeling Gumba is located at Nuwakot.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://urgengumba.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
