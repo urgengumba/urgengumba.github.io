@@ -7,6 +7,23 @@ layout: default
     <p>{{ site.description }}</p>
   </div>
 
+{% for item in site.image_gallery %}
+  <div class="col-lg-4 col-sm-6">
+    <a href="{{ item.url }}" class="portfolio-box">
+      <img src="{{ item.image_path }}" class="img-responsive" alt="{{ item.project }}">
+      <div class="portfolio-box-caption">
+        <div class="portfolio-box-caption-content">
+          <div class="project-category text-faded">
+            {{ item.category }}
+          </div>
+          <div class="project-name">
+            {{ item.project }}
+          </div>
+        </div>
+      </div>
+    </a>
+  </div>
+{% endfor %}
 <!--   <h1 class="page-heading">Posts</h1>
 
 

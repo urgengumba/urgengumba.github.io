@@ -12,6 +12,19 @@ address: Betini - 3, Kalo Bhanjyang, Nuwakot
 contact_number: 9841292186, 9843107647, 9813725550
 description: > # this means to ignore newlines until "baseurl:"
   Urgen Chhoeling Gumba is located at Nuwakot.
+image_gallery:
+  - image_path: /img/gumba-buddha.jpg
+    description: buddha idol
+  - image_path: /img/gumba-1.jpg
+    description: gumba outside1
+  - image_path: /img/gumba-2.jpg
+    description: gumba outside2
+  - image_path: /img/gumba-3.jpg
+    description: gumba outside3
+  - image_path: /img/gumba-4.jpg
+    description: gumba outside4
+
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://urgengumba.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
