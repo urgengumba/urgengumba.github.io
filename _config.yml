@@ -6,10 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Urgen Chhoeling Gumba
+title: Urgen Chhoeling Gumba - Nuwakot
+title_nepali: "उर्गेन छ्योलिङ्ग् गुम्बा - नुवाकोट"
+
+address: "Betini - 3, Kalo Bhanjyang, Nuwakot, Nepal"
+address_nepali: "बेतिनी - ३, कालो भञ्ज्याङ, नुवाकोट, नेपाल"
+
+contact_number: "9841292186, 9843107647, 9813725550"
+contact_number_nepali: "९८४१२९२१८६, ९८४१३१०७६४७, ९८१३७२५५०"
+
 email: urgen.gumba@hotmail.com
-address: Betini - 3, Kalo Bhanjyang, Nuwakot
-contact_number: 9841292186, 9843107647, 9813725550
 description: > # this means to ignore newlines until "baseurl:"
   Urgen Chhoeling Gumba is located at Nuwakot.
 image_gallery:
